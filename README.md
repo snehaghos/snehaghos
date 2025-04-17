@@ -29,6 +29,7 @@
 
 
 ### 🔥 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=snehaghos&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=snehaghos&theme=tokyonight)
+
 
 
