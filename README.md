@@ -46,7 +46,7 @@
 
 
 ### 🔥 GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=snehaghos)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=snehaghos&theme=tokyonight)](https://git.io/streak-stats)
 
 
 
