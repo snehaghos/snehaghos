@@ -32,7 +32,7 @@
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=plastic&logo=adobephotoshop&logoColor=white)
 
 ![OOP](https://img.shields.io/badge/OOP-Principles-orange?style=plastic)
-![DSA](https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-008080?style=plastic)
+
 
 
 
@@ -46,7 +46,7 @@
 
 
 ### 🔥 GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=snehaghos&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=snehaghos&theme=transparent)](https://git.io/streak-stats)
 
 
 
