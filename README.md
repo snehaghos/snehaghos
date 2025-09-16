@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sneha</h1>
-<h3 align="center">A passionate Web Developer and BCA (H) Student</h3>
+<h1 align="center">Hi Everyone , I'm Sneha Ghoshal</h1>
+<h3 align="center">A passionate Web Developer and BCA Student</h3>
 
 ## 🌐 Socials  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/snehaghoshal_art/) 
