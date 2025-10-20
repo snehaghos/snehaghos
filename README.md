@@ -31,8 +31,6 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=plastic&logo=adobephotoshop&logoColor=white)
 
-![OOP](https://img.shields.io/badge/OOP-Principles-orange?style=plastic)
-
 
 
 
