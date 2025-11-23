@@ -52,9 +52,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=snehaghos&theme=react-dark" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=snehaghos&show_icons=true&theme=dark" />
-</p>
 
 
 
