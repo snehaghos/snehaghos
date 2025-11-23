@@ -47,6 +47,14 @@
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=snehaghos&theme=dark&hide_border=false)
 
 
+---
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=snehaghos&theme=react-dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=snehaghos&show_icons=true&theme=dark" />
+</p>
 
 
 
