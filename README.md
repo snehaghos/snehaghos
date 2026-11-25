@@ -1,7 +1,7 @@
 <h1 align="center">Hi Everyone, I'm Sneha Ghoshal</h1>
 
 <p align="center">
-  <strong>A passionate Web Developer and BCA Student</strong>
+  <strong>A passionate Web Developer and BCA Student. Currently looking for job opportunities.</strong>
 </p>
 
 <p align="center">
